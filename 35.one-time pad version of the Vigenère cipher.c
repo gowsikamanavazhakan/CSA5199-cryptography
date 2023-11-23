@@ -46,3 +46,8 @@ int main() {
     printf("Ciphertext: %s\n", ciphertext);
     return 0;
 }
+
+OUTPUT:
+Plaintext: Hello, World!
+Key: 9 25 1 3 20 17 11 17 8 4 9 17 
+Ciphertext: Qdmoi, Nzith!
