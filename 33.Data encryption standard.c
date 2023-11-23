@@ -57,4 +57,8 @@ int main() {
 
     return 0;
 }
+OUTPUT:
+Original Plaintext: 0123456789ABCDEF
+After Initial Permutation: CC00CCFFF0AAF0AA
+After Initial Permutation Inverse: 0123456789ABCDEF
 
