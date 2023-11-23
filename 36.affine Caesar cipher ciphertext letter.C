@@ -35,3 +35,7 @@ int main() {
     printf("Ciphertext: %s\n", ciphertext);
     return 0;
 }
+
+OUTPUT:
+Plaintext: Hello, World!
+Ciphertext: Rclla, Oaplx!
