@@ -100,3 +100,8 @@ int main() {
 
     return 0;
 }
+OUTOUT:
+DSA Signature:
+r: 0
+s: 0
+RSA Signature: 0
